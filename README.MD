@@ -40,11 +40,8 @@ try {
 return jsonObject;
 ```
 
---- Video POC ---
-<video width="100%" controls>
-  <source src="proof_iga.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+----VIDEO POC----
 
+https://github.com/GTxNoMercy00/Magarsus-IDA---RCE/blob/main/proof_iga.mp4
 
 
