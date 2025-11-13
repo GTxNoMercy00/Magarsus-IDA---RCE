@@ -1,7 +1,10 @@
 After logging into the application interface with the admin user, access was provided to the "Rules --> New Rule" form field.
 
+![Vulnerability Proof](image.png)
 
 "Java Kodu" alanına Runtime.getRuntime().exec() metodunu kullanarak sistem komutları içeren kodlar sunucu tarafında işlenerek remote code execution zafiyetine sebep olmaktadır.
+
+![Exploitation Process](proof.png)
 
 ---Exploit Code ---
 
