@@ -1,4 +1,6 @@
 After logging into the application interface with the admin user, access was provided to the "Rules --> New Rule" form field.
+
+
 "Java Kodu" alanına Runtime.getRuntime().exec() metodunu kullanarak sistem komutları içeren kodlar sunucu tarafında işlenerek remote code execution zafiyetine sebep olmaktadır.
 
 ---Exploit Code ---
