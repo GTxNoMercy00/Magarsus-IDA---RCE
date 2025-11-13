@@ -7,7 +7,6 @@ After logging into the application interface with the admin user, access was pro
 ![Exploitation Process](proof.png)
 
 ---Exploit Code ---
-
 import org.json.simple.*;
 
 JSONObject jsonObject = new JSONObject();
