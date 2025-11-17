@@ -2,8 +2,7 @@ After logging into the application interface with the admin user, access was pro
 
 ![Vulnerability Proof](image.png)
 
-"Java Kodu" alanına Runtime.getRuntime().exec() metodunu kullanarak sistem komutları içeren kodlar sunucu tarafında işlenerek remote code execution zafiyetine sebep olmaktadır.
-
+By using the Runtime.getRuntime().exec() method in the "Java Code" field, codes containing system commands are processed on the server side, causing a remote code execution vulnerability.
 ![Exploitation Process](proof.png)
 
 ## 💻 Exploit Code
